@@ -1,0 +1,107 @@
+PowerOnIntent turn on
+PowerOnIntent wake up
+PowerOnIntent switch on
+
+PowerOffIntent switch off
+PowerOffIntent turn off
+PowerOffIntent close
+
+ConfirmIntent Press Enter
+ConfirmIntent Enter
+ConfirmIntent Select
+ConfirmIntent Press Select
+ConfirmIntent Confirm
+ConfirmIntent Press Confirm
+ConfirmIntent Ok
+ConfirmIntent Press Ok
+
+SubTitleIntent Subtitles
+SubTitleIntent Subtitles On
+SubTitleIntent Subtitles Off
+SubTitleIntent Subtitles toggle
+
+GGuideIntent Guide
+GGuideIntent TV Guide
+GGuideIntent Go to Guide
+GGuideIntent View the Guide
+GGuideIntent Show me the TV Guide
+
+ChannelIntent Channel {Direction}
+ChannelIntent Go {Direction} a Channel
+ChannelIntent Change the channel {Direction}
+ChannelIntent Move {Direction} a channel
+
+InputIntent Change The Source
+InputIntent source
+InputIntent Toggle Input
+InputIntent change the input
+InputIntent switch input
+InputIntent switch source
+
+ReturnIntent go back
+ReturnIntent back
+ReturnIntent return
+ReturnIntent return to previous menu
+ReturnIntent go back to previous menu
+ReturnIntent back menu
+
+ButtonIntent {Button}
+ButtonIntent press {Button}
+ButtonIntent change {Button}
+ButtonIntent go {Button}
+ButtonIntent move {Button}
+ButtonIntent go to {Button}
+ButtonIntent view {Button}
+ButtonIntent fast {Button}
+ButtonIntent click {Button}
+
+VolumeIntent Volume {Direction}
+VolumeIntent Volume {Direction} {Number}
+VolumeIntent turn the Volume {Direction} {Number}
+VolumeIntent change the Volume {Direction} {Number}
+
+
+MoveIntent move {Direction}
+MoveIntent go {Direction}
+MoveIntent {Direction} {Number}
+MoveIntent {Direction} {Number}
+MoveIntent move {Direction} {Number}
+MoveIntent go {Direction} {Number}
+MoveIntent move {Direction} {Number} spaces
+MoveIntent go {Direction} {Number} spaces
+MoveIntent {Number} {Direction}
+MoveIntent {Number} {Direction}
+MoveIntent move {Number} {Direction}
+MoveIntent go {Number} {Direction}
+MoveIntent move {Number} spaces {Direction}
+MoveIntent go {Number} spaces {Direction}
+
+NumberIntent press number {Number}
+NumberIntent go to channel {Number}
+NumberIntent channel {Number}
+
+HdmiIntent HD {Number}
+HdmiIntent HDMI {Number}
+HdmiIntent go to HDMI {Number}
+HdmiIntent change to HDMI {Number}
+HdmiIntent go to HD {Number}
+HdmiIntent change to HD {Number}
+HdmiIntent switch to HDMI {Number}
+HdmiIntent switch to HD {Number}
+
+VideoIntent AV {Number}
+VideoIntent go to AV {Number}
+VideoIntent change to AV {Number}
+VideoIntent switch to AV {Number}
+VideoIntent go to AV {Number}
+VideoIntent Video {Number}
+VideoIntent go to Video {Number}
+VideoIntent change to Video {Number}
+VideoIntent switch to Video {Number}
+VideoIntent go to Video {Number}
+
+
+NetflixIntent go to netflix
+NetflixIntent open netflix
+NetflixIntent play netflix
+NetflixIntent show netflix

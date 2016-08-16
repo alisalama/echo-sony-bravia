@@ -1,0 +1,103 @@
+{
+    "intents": [
+    {
+        "intent": "PowerOnIntent"
+    },
+    {
+        "intent": "PowerOffIntent"
+    },
+    {
+        "intent": "MenuIntent"
+    },
+    {
+        "intent": "NetflixIntent"
+    },
+    {
+        "intent": "ConfirmIntent"
+    },
+    {
+        "intent": "GGuideIntent"
+    },
+    {
+        "intent": "InputIntent"
+    },
+    {
+        "intent": "ReturnIntent"
+    },
+    {
+        "intent": "SubTitleIntent"
+    },
+    {
+      "intent": "NumberIntent",
+      "slots": [
+        {
+            "name": "Number",
+            "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "VolumeIntent",
+      "slots": [
+        {
+            "name": "Number",
+            "type": "AMAZON.NUMBER"
+        },
+        {
+            "name": "Direction",
+            "type": "DIRECTIONS"
+        }
+      ]
+    },
+    {
+      "intent": "MoveIntent",
+      "slots": [
+        {
+            "name": "Number",
+            "type": "AMAZON.NUMBER"
+        },
+        {
+            "name": "Direction",
+            "type": "DIRECTIONS"
+        }
+      ]
+    },
+    {
+      "intent": "HdmiIntent",
+      "slots": [
+        {
+            "name": "Number",
+            "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "VideoIntent",
+      "slots": [
+        {
+            "name": "Number",
+            "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "ButtonIntent",
+      "slots": [
+        {
+            "name": "Button",
+            "type": "BUTTONS"
+        }
+      ]
+    },
+    {
+      "intent": "ChannelIntent",
+      "slots": [
+        {
+            "name": "Direction",
+            "type": "DIRECTIONS"
+        }
+      ]
+    }
+
+  ]
+}

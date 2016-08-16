@@ -1,0 +1,16 @@
+Red
+Blue
+Green
+Yellow
+Options
+Mute
+Stop
+Pause
+Play
+Next
+Rewind
+Forward
+Prev
+Return
+Input
+Home
